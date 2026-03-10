@@ -27,7 +27,7 @@ Code get back exceptions:
 + HTTP error
 
 ## Plans
-+ Add new category from API ('/todos', 'photos', 'albums')
++ Add new category from API ('/todos', '/photos', '/albums')
 + Find out how to fix work with '/comments'
 
 ## About Dockerfile
