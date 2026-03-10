@@ -28,4 +28,8 @@ Code get back exceptions:
 
 ## Plans
 + Add new category from API ('/todos', 'photos', 'albums')
-+ find out how to fix work with '/comments'
++ Find out how to fix work with '/comments'
+
+## About Dockerfile
++ python v.3.10 slim with module "requests"
++ requests v.2.31.0
